@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <<<<<<< HEAD
 // Your changes on the current branch
 =======
